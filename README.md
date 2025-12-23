@@ -20,6 +20,9 @@ Neo4js
 Cassandra
 Redis
 
+3D Blender 
+3D modeling, visualization and animation
+
 Frameworks and tools:
 
 Next.js - for my web development
